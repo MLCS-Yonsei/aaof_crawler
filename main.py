@@ -61,8 +61,8 @@ class Crawler():
 
         # File name in subjects_info dir
         collection_names = [
-            # 'bolton',
-            # 'Burlington',
+            'bolton',
+            'Burlington',
             'Denver',
             'Fels',
             'Forsyth',
@@ -74,8 +74,8 @@ class Crawler():
 
         # collection_id is in url
         collection_ids = [
-            # 'CASEBolton',
-            # 'UTBurlington',
+            'CASEBolton',
+            'UTBurlington',
             'UOKDenver',
             'WSUFels',
             'Forsyth',
@@ -97,7 +97,17 @@ class Crawler():
                 for i, row in enumerate(subjects_info):
                     if i>0:
                         if len(row[0]) > 0:
-                            subject_ids.append(row[0])
+                            if collection_name == 'Mathews':
+                                subject_ids.append(row[0].zfill(3))
+                            elif collection_name == 'Michigan':
+                                subject_ids.append(row[0].zfill(5))
+                            elif collection_name == 'Oregon':
+                                if len(row[0]) < 3:
+                                    subject_ids.append(row[0].zfill(3))
+                                else:
+                                    subject_ids.append(row[0])
+                            else:
+                                subject_ids.append(row[0])
 
             # Getting data from each subject
             for s_idx, subject_id in enumerate(subject_ids):
