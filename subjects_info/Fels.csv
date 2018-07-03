@@ -1,0 +1,103 @@
+subject_id,sex,angle_class,laterals,frontals,hand_writsts,study_casts,landmarks,images_count
+F0245,F,Unknown,Yes,No,No,No,No,7
+F0305,M,Unknown,Yes,No,No,No,No,10
+F0481,F,Class I,Yes,No,No,No,No,12
+F0544,F,Unknown,Yes,No,No,No,No,7
+F0621,F,Unknown,Yes,No,No,No,No,9
+F0625,M,Class I,Yes,No,No,No,No,8
+F0751,F,Unknown,Yes,No,No,No,No,10
+F0766,F,Unknown,Yes,No,No,No,No,8
+F0770,F,Class I,Yes,No,No,No,No,11
+F0779,M,Unknown,Yes,No,No,No,No,12
+F0822,F,Class I,Yes,No,No,No,No,9
+F0845,M,Unknown,Yes,No,No,No,No,7
+F0874,M,Class I,Yes,No,No,No,No,9
+F0968,F,Class I,Yes,No,No,No,No,9
+F1105,M,Class I,Yes,No,No,No,No,7
+F1284,M,Unknown,Yes,No,No,No,No,11
+F1397,M,Class II,Yes,No,No,No,No,11
+F1441,F,Unknown,Yes,No,No,No,No,9
+F1541,M,Unknown,Yes,No,No,No,No,12
+F1583,F,Class I,Yes,No,No,No,No,10
+F1586,F,Class I,Yes,No,No,No,No,12
+F1927,M,Class I,Yes,No,No,No,No,7
+F1978,M,Class I,Yes,No,No,No,No,10
+F2117,F,Class I,Yes,No,No,No,No,9
+F2249,F,Unknown,Yes,No,No,No,No,9
+F2272,M,Unknown,Yes,No,No,No,No,11
+F2331,F,Unknown,Yes,No,No,No,No,9
+F2364,M,Unknown,Yes,No,No,No,No,10
+F2485,F,Class I,Yes,No,No,No,No,10
+F2671,M,Class I,Yes,No,No,No,No,14
+F2927,F,Unknown,Yes,No,No,No,No,10
+F3079,F,Unknown,Yes,No,No,No,No,10
+F3094,M,Class I,Yes,No,No,No,No,8
+F3140,F,Unknown,Yes,No,No,No,No,9
+F3374,F,Unknown,Yes,No,No,No,No,9
+F3396,F,Class I,Yes,No,No,No,No,10
+F3476,F,Class I,Yes,No,No,No,No,7
+F3532,M,Class I,Yes,No,No,No,No,11
+F3736,F,Class I,Yes,No,No,No,No,12
+F3757,M,Unknown,Yes,No,No,No,No,9
+F3901,F,Unknown,Yes,No,No,No,No,10
+F3916,F,Class I,Yes,No,No,No,No,7
+F3994,F,Unknown,Yes,No,No,No,No,10
+F4014,F,Unknown,Yes,No,No,No,No,12
+F4193,M,Unknown,Yes,No,No,No,No,9
+F4421,M,Class I,Yes,No,No,No,No,12
+F4614,F,Class I,Yes,No,No,No,No,11
+F4707,M,Unknown,Yes,No,No,No,No,9
+F4748,M,Class I,Yes,No,No,No,No,13
+F5061,M,Class I,Yes,No,No,No,Yes,5
+F5275,F,Unknown,Yes,No,No,No,No,7
+F5294,M,Unknown,Yes,No,No,No,No,10
+F5324,M,Class I,Yes,No,No,No,No,13
+F5617,M,Class I,Yes,No,No,No,No,7
+F5627,M,Unknown,Yes,No,No,No,No,7
+F5649,M,Class I,Yes,No,No,No,No,10
+F5667,M,Class III,Yes,No,No,No,No,9
+F5730,F,Unknown,Yes,No,No,No,No,11
+F5742,M,Unknown,Yes,No,No,No,No,9
+F5868,F,Class I,Yes,No,No,No,No,11
+F5900,M,Unknown,Yes,No,No,No,No,9
+F5935,M,Unknown,Yes,No,No,No,No,7
+F5939,F,Unknown,Yes,No,No,No,No,10
+F6026,F,Unknown,Yes,No,No,No,No,8
+F6272,F,Class I,Yes,No,No,No,No,8
+F6492,M,Unknown,Yes,No,No,No,No,9
+F6593,M,Class I,Yes,No,No,No,No,10
+F6599,F,Unknown,Yes,No,No,No,No,10
+F6753,M,Class I,Yes,No,No,No,No,11
+F6780,M,Class I,Yes,No,No,No,No,10
+F6976,M,Unknown,Yes,No,No,No,No,11
+F7014,F,Unknown,Yes,No,No,No,No,11
+F7127,M,Class I,Yes,No,No,No,No,6
+F7338,F,Unknown,Yes,No,No,No,No,10
+F7362,M,Class I,Yes,No,No,No,No,6
+F7363,F,Class I,Yes,No,No,No,No,7
+F7621,M,Unknown,Yes,No,No,No,No,10
+F7626,F,Class I,Yes,No,No,No,No,9
+F7641,M,Class I,Yes,No,No,No,No,11
+F7714,M,Unknown,Yes,No,No,No,No,9
+F7745,F,Unknown,Yes,No,No,No,No,12
+F7812,F,Unknown,Yes,No,No,No,No,7
+F8040,M,Unknown,Yes,No,No,No,No,8
+F8121,F,Unknown,Yes,No,No,No,No,10
+F8293,M,Class I,Yes,No,No,No,No,8
+F8940,M,Class I,Yes,No,No,No,No,11
+F8957,M,Unknown,Yes,No,No,No,No,9
+F8981,M,Class I,Yes,No,No,No,No,7
+F9125,M,Class I,Yes,No,No,No,No,13
+F9254,M,Class I,Yes,No,No,No,No,13
+F9272,F,Class II,Yes,No,No,No,No,11
+F9299,M,Class I,Yes,No,No,No,No,7
+F9427,M,Class I,Yes,No,No,No,No,10
+F9435,M,Unknown,Yes,No,No,No,No,8
+F9471,M,Unknown,Yes,No,No,No,No,11
+F9474,F,Unknown,Yes,No,No,No,No,11
+F9500,F,Unknown,Yes,No,No,No,No,8
+F9576,M,Class II,Yes,No,No,No,No,10
+F9726,F,Unknown,Yes,No,No,No,No,10
+F9739,F,Unknown,Yes,No,No,No,No,8
+F9858,F,Unknown,Yes,No,No,No,No,12
+F9900,M,Unknown,Yes,No,No,No,No,10

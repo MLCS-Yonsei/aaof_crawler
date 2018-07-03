@@ -1,0 +1,95 @@
+subject_id,sex,angle_class,laterals,frontals,hand_writsts,study_casts,landmarks,images_count
+6,M,Class II,Yes,No,No,No,Yes,10
+7,F,Class I,Yes,No,No,No,Yes,8
+8,F,Class I,Yes,No,No,No,No,9
+9,F,Class I,Yes,No,No,No,No,7
+13,F,Class I,Yes,No,No,No,Yes,10
+36,F,Class I,Yes,No,No,No,Yes,7
+40,F,Class II,Yes,No,No,No,Yes,7
+41,F,Class II,Yes,No,No,No,Yes,8
+44,F,Class I,Yes,No,No,No,No,5
+46,F,Class II,Yes,No,No,No,Yes,11
+50,F,Class I,Yes,No,No,No,No,7
+53,F,Class I,Yes,No,No,No,Yes,7
+54,F,Class II,Yes,No,No,No,Yes,12
+58,F,Class I,Yes,No,No,No,Yes,11
+60,F,Class I,Yes,No,No,No,Yes,15
+67,F,Class I,Yes,No,No,No,Yes,8
+69,F,Class II,Yes,No,No,No,Yes,6
+72,F,Class I,Yes,No,No,No,Yes,11
+73,F,Class I,Yes,No,No,No,Yes,12
+77,F,Class II,Yes,No,No,No,Yes,12
+79,F,Class I,Yes,No,No,No,Yes,11
+86,F,Unknown,Yes,No,No,No,Yes,11
+87,F,Class I,Yes,No,No,No,Yes,13
+94,F,Class I,Yes,No,No,No,Yes,8
+95,F,Class II,Yes,No,No,No,Yes,9
+98,F,Class I,Yes,No,No,No,Yes,14
+102,F,Unknown,Yes,No,No,No,Yes,11
+103,F,Class II,Yes,No,No,No,No,10
+104,F,Unknown,Yes,No,No,No,Yes,12
+105,F,Class I,Yes,No,No,No,Yes,7
+106,F,Class I,Yes,No,No,No,Yes,9
+107,F,Class I,Yes,No,No,No,Yes,10
+110,F,Class I,Yes,No,No,No,Yes,15
+111,F,Class I,Yes,No,No,No,Yes,13
+113,F,Class I,Yes,No,No,No,Yes,8
+114,F,Class I,Yes,No,No,No,Yes,9
+115,F,Class II,Yes,No,No,No,Yes,14
+117,F,Class II,Yes,No,No,No,Yes,11
+123,F,Class I,Yes,No,No,No,Yes,9
+124,F,Class I,Yes,No,No,No,Yes,10
+130,F,Unknown,Yes,No,No,No,Yes,11
+140,F,Class I,Yes,No,No,No,Yes,9
+465,F,Class I,Yes,No,No,No,Yes,11
+482,F,Class III,Yes,No,No,No,Yes,8
+490,F,Class II,Yes,No,No,No,No,5
+502,M,Class I,Yes,No,No,No,Yes,9
+504,M,Class II,Yes,No,No,No,Yes,12
+505,M,Class I,Yes,No,No,No,Yes,11
+506,M,Class II,Yes,No,No,No,Yes,11
+510,M,Class I,Yes,No,No,No,Yes,15
+511,M,Class II,Yes,No,No,No,Yes,9
+514,M,Class I,Yes,No,No,No,Yes,13
+515,M,Class I,Yes,No,No,No,No,11
+517,M,Class I,Yes,No,No,No,No,8
+522,M,Class I,Yes,No,No,No,No,12
+523,M,Class II,Yes,No,No,No,No,14
+525,M,Class I,Yes,No,No,No,No,10
+528,M,Class I,Yes,No,No,No,No,6
+529,M,Class II,Yes,No,No,No,Yes,10
+532,M,Unknown,Yes,No,No,No,No,9
+533,M,Class I,Yes,No,No,No,No,14
+535,M,Class I,Yes,No,No,No,No,14
+545,M,Class I,Yes,No,No,No,No,12
+548,M,Class I,Yes,No,No,No,No,12
+549,M,Unknown,Yes,No,No,No,No,10
+551,M,Class II,Yes,No,No,No,Yes,11
+552,M,Class I,Yes,No,No,No,No,12
+555,M,Class I,Yes,No,No,No,Yes,11
+557,M,Class I,Yes,No,No,No,No,13
+562,M,Class I,Yes,No,No,No,No,15
+563,M,Class I,Yes,No,No,No,No,13
+565,M,Class I,Yes,No,No,No,No,14
+566,M,Class II,Yes,No,No,No,No,16
+570,M,Class II,Yes,No,No,No,No,12
+574,M,Unknown,Yes,No,No,No,No,9
+575,M,Class II,Yes,No,No,No,No,10
+582,M,Unknown,Yes,No,No,No,No,10
+584,M,Unknown,Yes,No,No,No,No,12
+585,M,Class I,Yes,No,No,No,No,10
+588,M,Class I,Yes,No,No,No,Yes,9
+589,M,Class I,Yes,No,No,No,No,13
+600,M,Unknown,Yes,No,No,No,No,13
+609,M,Class I,Yes,No,No,No,No,11
+616,M,Class I,Yes,No,No,No,No,15
+626,M,Class I,Yes,No,No,No,No,13
+638,M,Class I,Yes,No,No,No,No,10
+692,M,Class I,Yes,No,No,No,No,4
+980,M,Unknown,Yes,No,No,No,No,9
+983,M,Class I,Yes,No,No,No,No,9
+984,M,Class I,Yes,No,No,No,No,9
+986,M,Class I,Yes,No,No,No,No,6
+988,M,Unknown,Yes,No,No,No,No,9
+993,M,Class II,Yes,No,No,No,No,9
+994,M,Unknown,Yes,No,No,No,No,10

@@ -1,0 +1,11 @@
+subject_id,sex,angle_class,laterals,frontals,hand_writsts,study_casts,landmarks,images_count
+03-11,M,Class I,Yes,No,No,No,Yes,12
+03-12,M,Class I,Yes,No,No,No,Yes,12
+05-11,F,Class I,Yes,No,No,No,Yes,12
+05-12,F,Class I,Yes,No,No,No,Yes,12
+19-11,F,Class I,Yes,No,No,No,Yes,13
+19-12,F,Class I,Yes,No,No,No,Yes,13
+37-11,M,Class II,Yes,No,No,No,Yes,13
+37-12,M,Class II,Yes,No,No,No,Yes,12
+40-11,M,Class II,Yes,No,No,No,No,12
+40-12,M,Class II,Yes,No,No,No,Yes,12
